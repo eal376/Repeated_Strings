@@ -1,3 +1,5 @@
+// Elizabeth Pineda , Xavier Damas, Elizabeth Lujan
+
 #include <iostream>
 #include <string>
 
